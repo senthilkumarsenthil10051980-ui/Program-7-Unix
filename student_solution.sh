@@ -1,4 +1,3 @@
-#!/bin/bash
 
 # 1. Delete a single file
 # Write your command here
